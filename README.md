@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # flight-reservation-system
 A Java-based Flight Reservation System for the CSIS-215 OOP course. Implements core OOP principles with flight scheduling, discount handling, and custom date validations.
 =======
@@ -116,4 +116,4 @@ Feel free to fork the repo, submit pull requests, or raise issues. Contributions
 
 - Java SE Documentation: https://docs.oracle.com/en/java/javase/
 - GitHub Docs – Getting Started: https://docs.github.com/en/get-started
->>>>>>> 275ff5e (Initial commit - Java Flight Reservation System for CSIS-228)
+
